@@ -49,7 +49,7 @@ export default function Home() {
         />
       </div>
       <div className="relative flex">
-        <div className="group rounded-lg border border-transparent px-8 py-8 border-slate-300">
+        <div className="group rounded-lg border px-8 py-8 border-slate-300">
           <div className='mb-4'>
           <h2 className={`text-2xl font-semibold`}>
             Unsubscribe
